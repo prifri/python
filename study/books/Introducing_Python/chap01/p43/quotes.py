@@ -1,5 +1,5 @@
 ''''
-주석인가
+dictionary
 '''
 
 quotes = {
