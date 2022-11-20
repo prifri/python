@@ -1,0 +1,11 @@
+print(bin(65))
+print(oct(65))
+print(hex(65))
+print(chr(65))
+print(ord('A'))
+# error print(bin('A'))
+x = ord('A')
+print(x)
+# error print(ord(0b1000))
+x = 0b1111
+print(x)
